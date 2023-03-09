@@ -1,0 +1,2 @@
+#!/bin/bash
+cd .. mkdir -p html-backup cp*.html -u html_backup/
